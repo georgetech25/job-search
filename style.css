@@ -509,6 +509,7 @@ li a:hover{
 
   ul li {
     padding: 8px 0;
+      font-weight:normal;
   }
 
   .hero-section {
@@ -534,6 +535,7 @@ li a:hover{
 
     .card p{
         line-height:18px;
+        font-weight:normal;
     }
 
 
@@ -582,6 +584,13 @@ li a:hover{
     justify-content: center;
     gap: 30px;
   }
+
+    .card p{
+        line-height:20px;
+        font-weight:normal;
+        
+    }
+    
 
   .gallery {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
