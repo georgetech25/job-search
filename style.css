@@ -515,6 +515,7 @@ li a:hover{
   .hero-section {
     flex-direction: column;
     text-align: center;
+      height:50%;
   }
 
   .left-container,
@@ -572,6 +573,7 @@ li a:hover{
   .hero-section {
     flex-direction: column;
     text-align: center;
+      height:50%;
   }
 
   .right-container img {
