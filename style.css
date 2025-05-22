@@ -596,6 +596,11 @@ li a:hover{
     padding: 20px;
   }
 
+
+    .about-container{
+        display:inline-block;
+    }
+
   .footer {
     flex-direction: column;
     align-items: center;
