@@ -494,7 +494,7 @@ li a:hover{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
   nav {
     flex-direction: column;
     align-items: flex-start;
@@ -516,13 +516,6 @@ li a:hover{
     text-align: center;
   }
 
-
-
-  .content{
-    display: inline-block;
-   
-}
-
   .left-container,
   .right-container {
     margin: 0;
@@ -530,8 +523,8 @@ li a:hover{
   }
 
   .right-container img {
-    width: 150px;
-    margin: 15px auto;
+    width: 200px;
+    margin: 20px auto;
   }
 
   .card-container {
@@ -545,18 +538,19 @@ li a:hover{
 
   .form-wrapper {
     height: auto;
-    margin-top: 50px;
-    padding: 15px;
+    margin-top: 80px;
+    padding: 20px;
   }
 
   .footer {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 15px;
-    padding: 15px;
+    gap: 20px;
+    padding: 20px;
   }
 }
+
 
 /* Medium devices (tablets, 601px to 992px) */
 @media (min-width: 601px) and (max-width: 992px) {
