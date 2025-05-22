@@ -532,6 +532,11 @@ li a:hover{
     align-items: center;
   }
 
+    .card p{
+        line-height:18px;
+    }
+
+
   .gallery {
     grid-template-columns: 1fr;
   }
